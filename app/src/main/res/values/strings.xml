@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Schedule Background Task</string>
+
+
+    <string name="broadcast_receiver">Broadcast Receiver</string>
+    <string name="enter_text_here">Enter text here…</string>
+    <string name="trigger_broadcast_receiver">Trigger Broadcast Receiver</string>
+
+    <string name="alarm_manager">Alarm Manager</string>
+    <string name="schedule_alarm">Schedule Alarm (after 10 secs)</string>
+
+    <string name="job_schedule">Job Schedule</string>
+    <string name="schedule_job">Schedule Job (after 10 secs)</string>
+
+    <string name="work_manager">Work Manager</string>
+</resources>
