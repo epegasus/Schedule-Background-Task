@@ -45,7 +45,7 @@ class ActivityJobSchedule : AppCompatActivity() {
         val jobInfoBuilder = JobInfo.Builder(123, componentName)
             .setRequiredNetworkType(JobInfo.NETWORK_TYPE_ANY) // Requires any network
             .setPersisted(true) // Job will persist across device reboots
-            .setPeriodic(1 * 30 * 1000L) // Run every 15 minutes (min period)
+            .setPeriodic(15 * 60 * 1000L) // Run every 15 minutes (min period)
 
         // Additional settings for API 24+
         //jobInfoBuilder.setMinimumLatency(10 * 1000L) // Min delay of 10 seconds

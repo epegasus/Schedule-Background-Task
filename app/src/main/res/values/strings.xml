@@ -10,7 +10,8 @@
     <string name="schedule_alarm">Schedule Alarm (after 10 secs)</string>
 
     <string name="job_schedule">Job Schedule</string>
-    <string name="schedule_job">Schedule Job (after 10 secs)</string>
+    <string name="schedule_job">Schedule Job (every 15 minutes)</string>
 
     <string name="work_manager">Work Manager</string>
+    <string name="worker_job">Worker Job (every 15 minutes)</string>
 </resources>
